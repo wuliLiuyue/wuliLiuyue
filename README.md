@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true)
 
 <!--
 **wuliLiuyue/wuliLiuyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
