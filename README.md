@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![wuliLiuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true)
+![wuliLiuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliLiuyue)](https://github.com/wuliLiuyue/wuliLiuyue)
 
