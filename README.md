@@ -1,20 +1,34 @@
 ### Hi there 👋
 
+from typing import Tuple
+
+class Attributes(wuliLiuyue):
+	@property
+	def contact() -> Tuple[str, str]:
+	    discord  = "wuliLiuyue"
+	    telegram = "wuliLiuyue"
+	    
+	    return discord, telegram
+	
+	@property
+	def life() -> Tuple[list, int]:
+		langs         = ['Chinese', 'English']
+		age           = 18
+		
+		return langs, age
+	
+	@property
+	def coding() -> Tuple[dict, list, list]:
+		langs = {
+			'expert':   ['js'],
+			'intermediate': ['python', 'dart'],
+			'learning': ['rust', 'c++', 'go']
+		}
+		specialities  = ['web/app reverse engineering', 'fullstack']
+		environnement = ['cursor']
+		
+		return langs, specialities, environnement
+
 ![wuliLiuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliLiuyue)](https://github.com/wuliLiuyue/wuliLiuyue)
-
-<!--
-**wuliLiuyue/wuliLiuyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
