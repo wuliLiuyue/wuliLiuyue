@@ -1,4 +1,4 @@
-<h2 align="center">wuliLiuyue</h2>
+<h2 align="center">About Me</h2>
 
 ```python
 from typing import Tuple
@@ -26,7 +26,7 @@ class Attributes(wuliLiuyue):
 			'learning': ['rust', 'c++', 'go']
 		}
 		specialities  = ['web/app reverse engineering', 'fullstack']
-		environnement = ['cursor']
+		environnement = ['vscode']
 		
 		return langs, specialities, environnement
 
@@ -35,10 +35,10 @@ class Attributes(wuliLiuyue):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,python,dart,rust,cpp,go,cursor,androidstudio,xcode" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,python,dart,rust,cpp,go,vscode,androidstudio" />
   </a>
 </p>
 
 <p align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&theme=tokyonight&show_icons=true">
 </p>
