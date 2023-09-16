@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliLiuyue&layout=compact)](https://github.com/wuliLiuyue/wuliLiuyue)
+![wuliLiuyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true)
 
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&show_icons=true)
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuliLiuyue)](https://github.com/wuliLiuyue/wuliLiuyue)
 
 <!--
 **wuliLiuyue/wuliLiuyue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
