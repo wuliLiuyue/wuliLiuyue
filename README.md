@@ -1,4 +1,4 @@
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me </h2>
 
 ```python
 from typing import Tuple
@@ -7,9 +7,8 @@ class Attributes(wuliLiuyue):
 	@property
 	def contact() -> Tuple[str, str]:
 	    discord  = "wuliLiuyue"
-	    telegram = "wuliLiuyue"
 	    
-	    return discord, telegram
+	    return discord
 	
 	@property
 	def life() -> Tuple[list, int]:
