@@ -1,40 +1,58 @@
 <h2 align="center">About Me </h2>
 
-```python
-from typing import Tuple
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.26;
 
-class Attributes(wuliLiuyue):
-	@property
-	def contact() -> Tuple[str, str]:
-	    discord  = "wuliLiuyue"
-	    
-	    return discord
-	
-	@property
-	def life() -> Tuple[list, int]:
-		langs         = ['Chinese', 'English']
-		age           = 18
-		
-		return langs, age
-	
-	@property
-	def coding() -> Tuple[dict, list, list]:
-		langs = {
-			'expert':   ['js'],
-			'intermediate': ['python', 'dart'],
-			'learning': ['rust', 'c++', 'go']
-		}
-		specialities  = ['web/app reverse engineering', 'fullstack']
-		environnement = ['vscode']
-		
-		return langs, specialities, environnement
+contract WuliLiuyue {
+    function contact() external pure returns (string memory) {
+        return "wuliLiuyue";
+    }
 
+    function life() external pure returns (string[] memory, uint256) {
+        string[] memory langs = new string[](2);
+        langs[0] = "Chinese";
+        langs[1] = "English";
+        uint256 age = 18;
+        return (langs, age);
+    }
+
+    function coding() external pure returns (
+        string[][] memory, 
+        string[] memory, 
+        string[] memory
+    ) {
+        string[][] memory langs = new string[][](3);
+        
+        langs ;
+        langs[0][0] = "js";
+        
+        langs ;
+        langs[1][0] = "dart";
+        langs[1][1] = "solidity";
+        
+        langs ;
+        langs[2][0] = "c++";
+        langs[2][1] = "go";
+        langs[2][2] = "swift";
+        
+        string[] memory specialities = new string[](3);
+        specialities[0] = "web/app reverse engineering";
+        specialities[1] = "fullstack";
+        specialities[2] = "smart contract";
+        
+        string[] memory environnement = new string[](1);
+        environnement[0] = "vscode";
+        
+        return (langs, specialities, environnement);
+    }
+}
 ```
 <h2 align="center">Skills </h2>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,python,dart,rust,cpp,go,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=js,css,html,dart,solidity,cpp,go,swift,vscode" />
   </a>
 </p>
 
