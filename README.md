@@ -1,9 +1,6 @@
 <h2 align="center">About Me </h2>
 
 ```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.26;
-
 contract WuliLiuyue {
     function contact() external pure returns (string memory) {
         return "wuliLiuyue";
@@ -52,7 +49,7 @@ contract WuliLiuyue {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,html,dart,solidity,cpp,go,swift,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,dart,solidity,cpp,go,swift,vscode" />
   </a>
 </p>
 
