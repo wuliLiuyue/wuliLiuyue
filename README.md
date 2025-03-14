@@ -23,15 +23,14 @@ contract WuliLiuyue {
         
         langs ;
         langs[0][0] = "js";
+        langs[0][1] = "dart";
         
         langs ;
-        langs[1][0] = "dart";
-        langs[1][1] = "solidity";
+        langs[1][0] = "java";
+        langs[1][1] = "go";
         
         langs ;
-        langs[2][0] = "c++";
-        langs[2][1] = "go";
-        langs[2][2] = "swift";
+        langs[2][0] = "solidity";
         
         string[] memory specialities = new string[](3);
         specialities[0] = "web/app reverse engineering";
@@ -49,7 +48,7 @@ contract WuliLiuyue {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,css,html,dart,solidity,cpp,go,swift,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,dart,java,go,solidity" />
   </a>
 </p>
 
