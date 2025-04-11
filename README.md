@@ -27,18 +27,19 @@ contract WuliLiuyue {
         
         langs ;
         langs[1][0] = "java";
-        langs[1][1] = "go";
+        langs[1][1] = "python";
         
         langs ;
-        langs[2][0] = "solidity";
+        langs[2][0] = "go";
+        langs[2][1] = "solidity";
         
         string[] memory specialities = new string[](3);
-        specialities[0] = "web/app reverse engineering";
-        specialities[1] = "fullstack";
+        specialities[0] = "web/app fullstack engineering";
+        specialities[1] = "ai agent";
         specialities[2] = "smart contract";
         
         string[] memory environnement = new string[](1);
-        environnement[0] = "vscode";
+        environnement[0] = "cursor";
         
         return (langs, specialities, environnement);
     }
@@ -48,7 +49,7 @@ contract WuliLiuyue {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,dart,java,go,solidity" />
+    <img src="https://skillicons.dev/icons?i=js,dart,java,python,go,solidity" />
   </a>
 </p>
 
