@@ -9,17 +9,16 @@ class WuliLiuyue:
 
     def coding(self) -> tuple[list[list[str]], list[str], list[str]]:
         langs = [
-            ["js", "dart"],
-            ["java", "python"],
-            ["go"]
+            ["JS", "Dart"],
+            ["Java", "Go"]
         ]
 
         specialities = [
-            "web/app fullstack engineering",
-            "ai agent"
+            "Fullstack Engineer",
+            "AI Agent"
         ]
 
-        environment = ["cursor"]
+        environment = ["Cursor", "Claude Code"]
 
         return langs, specialities, environment
 ```
@@ -27,10 +26,6 @@ class WuliLiuyue:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,dart,java,python,go" />
+    <img src="https://skillicons.dev/icons?i=js,dart,java,go" />
   </a>
-</p>
-
-<p align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=wuliLiuyue&count_private=true&theme=tokyonight&show_icons=true">
 </p>
