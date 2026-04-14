@@ -10,7 +10,7 @@ class WuliLiuyue:
     def coding(self) -> tuple[list[list[str]], list[str], list[str]]:
         langs = [
             ["JS", "Dart"],
-            ["Java", "Go"]
+            ["Go", "Rust"]
         ]
 
         specialities = [
@@ -18,7 +18,7 @@ class WuliLiuyue:
             "AI Agent"
         ]
 
-        environment = ["Cursor", "Claude Code"]
+        environment = ["Claude Code", "Codex"]
 
         return langs, specialities, environment
 ```
@@ -26,6 +26,6 @@ class WuliLiuyue:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,dart,java,go" />
+    <img src="https://skillicons.dev/icons?i=js,dart,go,rust" />
   </a>
 </p>
