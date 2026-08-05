@@ -32,9 +32,3 @@
 <img src="https://skillicons.dev/icons?i=docker,linux&theme=dark" alt="Tools" />
 
 </div>
-
-## [ NOW ]
-
-```text
-[ ONLINE ] building products with Go, Rust, Flutter and AI agents.
-```
